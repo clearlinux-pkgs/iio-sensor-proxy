@@ -4,7 +4,7 @@
 #
 Name     : iio-sensor-proxy
 Version  : 3.0
-Release  : 1
+Release  : 2
 URL      : https://gitlab.freedesktop.org/hadess/iio-sensor-proxy/-/archive/3.0/iio-sensor-proxy-3.0.tar.gz
 Source0  : https://gitlab.freedesktop.org/hadess/iio-sensor-proxy/-/archive/3.0/iio-sensor-proxy-3.0.tar.gz
 Summary  : No detailed summary available
